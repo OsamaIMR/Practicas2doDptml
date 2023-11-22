@@ -2,8 +2,10 @@
 
 Practicas del 2do departamental:
 
-Clase Vehiculo
-Clase Mario y Enemigos
-Clase Viaje Nacional
+1.- Clase Vehiculo
+
+2.- Clase Mario y Enemigos
+
+3.- Clase Viaje Nacional
 
 Alumno: Medina Ruiz Osama Ignacio
